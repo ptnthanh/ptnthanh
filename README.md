@@ -7,7 +7,7 @@ firm's execution system, which enables easy access to the internals of stock and
 <ul>
   <li> 🌱 I’m currently learning Neo4j and D3.js
   <li> :sunny: I love solving problems and creating software that makes people's lives better and easier
-  <li> :raised_hands: I’m looking for <strong>Software Engineer</strong> position starting in Summer 2022.
+  <li> :raised_hands: I’m looking for <strong>Software Engineer</strong> position starting in Summer 2022
 </ul>
 
 
