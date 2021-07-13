@@ -1,8 +1,8 @@
 <h1>Hi there 👋 </h1>
 
 <p>My name is <strong>Thanh Pham</strong>, a rising senior at University of Rochester studying <strong>Computer Science</strong> and <strong>Psychology</strong>. 
-I'm currently a <strong>Software Engineer Intern at PEAK6 Investments</strong>, a trading firm in Chicago, IL., where I'm working on a regulator tool for the
-firm's execution system, which enables easy access to the internals of stock and option orders.</p>
+I'm currently a <strong>Software Engineer Intern at PEAK6 Investments</strong>, where I'm working on a regulator tool for the firm's execution system, which 
+enables easy access to the internals of stock and option orders.</p>
 
 <ul>
   <li> 🌱 I’m currently learning Neo4j and D3.js
