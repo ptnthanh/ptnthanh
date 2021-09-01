@@ -6,7 +6,7 @@ I'm currently a <strong>Software Engineer Intern at PEAK6 Investments</strong>, 
 <ul>
   <li> 🌱 I’m currently learning about the foundations of Artificial Intelligence
   <li> :sunny: I love solving problems and creating software that makes people's lives better and easier
-  <li> :raised_hands: I’m looking for <strong>Software Engineer</strong> position starting in Summer 2022
+  <li> :raised_hands: I’m looking for new grad <strong>Software Engineer</strong> position starting in Summer 2022
 </ul>
 
 
